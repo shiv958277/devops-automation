@@ -1,0 +1,4 @@
+com\example\jenkinsTest\configuration\Config.class
+com\example\jenkinsTest\ServletInitializer.class
+com\example\jenkinsTest\Controller\JenkinsController.class
+com\example\jenkinsTest\JenkinsApplication.class
